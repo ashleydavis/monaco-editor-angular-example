@@ -1,0 +1,20 @@
+{
+  "name": "monaco-editor-example",
+  "description": "Simplest possible example of the Monaco editor.",
+  "main": "index.js",
+  "authors": [
+    "Ashley Davis <ashley@codecapers.com.au>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/codecapers/monaco-editor-angular-example",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
+}
